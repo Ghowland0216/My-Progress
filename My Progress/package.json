@@ -1,0 +1,9 @@
+{
+  "name": "my-progress",
+  "version": "0.0.0",
+  "description": "My Progress",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
