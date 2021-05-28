@@ -1,6 +1,6 @@
-# My Progress
+# My Learning Journey
 <body>
-  <title>My Learning Journey</title>
+  
    
   <h1>My Quest to Code</h1>
   
