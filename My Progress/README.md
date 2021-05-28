@@ -3,6 +3,9 @@
   
    
   <h1>My Quest to Code</h1>
+   h2 {
+  color: red;
+  }
    <img src="https://lh3.googleusercontent.com/xq37yynvrV4FOCZNPY5BDfUF2axp_WR0ZLCRR09ox-b-kL0Jh7RRS5zLFXCWviUB_5ON=s85">
   
   <p>Hi there. My name is Gianina, but I like Gia so much better. I am a healthcare worker. I work as an EKG/telemetry tech at Aurora Healthcare here in Milwaukee, WI. It's super fun and rewarding knowing that everyday, just noticing a change in my patient's cardiac rhthym, I save lives. Imade the transition from sales to healthcare at the start of the pandemic in 2020. I felt that as an able-bodied person, I should be doing something to help. So, I did. I've always wanted to be a programmer. I never thought of myself to be smart enough though. But, with the support of great family...I have begun my journey.</p>
